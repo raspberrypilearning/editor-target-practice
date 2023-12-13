@@ -1,23 +1,30 @@
-## Step title
-
-Add an introductory sentence. What will learners achieve by the end of this step?
+<h2 class="c-project-heading--task">Draw the grass</h2>
 
 --- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Add a second `rect`{:.language-python}, coloured green and  
 
-You should see...
- 
-![starter project](images/starter_project.png)
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 14
+line_highlights: 18-19
+---
+def draw():
+# Things to do in every frame
+    fill('cyan')
+    rect(0, 0, 400, 250)
+    fill('lightgreen')  # Set grass colour
+    rect(0, 250, 400, 150)  # Draw a rectangle
+--- /code ---
+</div>
+--- /task ---
+In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
+Type the code to `print()`{:.language-python} Hello to the screen:
 
 --- /task ---
 
---- task ---
+**Run** your code again to see the full background.
 
-Step content...
-
---- /task ---
-
---- save ---

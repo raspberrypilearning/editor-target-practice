@@ -1,59 +1,43 @@
-## Introduction
+<h2 class="c-project-heading--task">Create a background</h2>
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The [starter project](https://editor.raspberrypi.org/en/projects/target-practice-starter) has some code already written for you.
 
-### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+Click the run button, and you should see a blue rectangle.
+
+--- /task ---
+
+--- task ---
+
+The sky has been drawn with a black border (stroke). 
+
+Turn the stroke off for all shapes. Add `no_stroke()` to the `setup` function:
+
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 9
+line_highlights: 12
+---
+def setup():
+# Set up your game here
+    size(400, 400)  # width and height of screen
+    no_stroke()
+
+--- /code ---
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Run** your code again. Did you notice that the border (stroke) has now disappeared?
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<div class="c-project-callout c-project-callout--tip">
 
-+ A computer or tablet capable of running Scratch 3
+### Tip
 
-### Software
+Coordinates start from (x=0, y=0) in the top left-hand corner. This might be different to other coordinate systems you have used.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+</div>
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
