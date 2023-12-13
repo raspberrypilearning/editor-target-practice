@@ -4,9 +4,7 @@ Your game needs a target to shoot arrows at.
 
 --- task ---
 
-The sky has been drawn with a black border (stroke). 
-
-Turn the stroke off for all shapes. Add `no_stroke()` to the `setup` function:
+Add a brown triangle to your foreground
 
 <div class="c-project-code">
 --- code ---
@@ -22,10 +20,6 @@ line_highlights: 20-21
     triangle(150, 350, 200, 150, 250, 350)
 --- /code ---
 </div>
-
---- /task ---
-In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
-Type the code to `print()`{:.language-python} Hello to the screen:
 
 --- /task ---
 

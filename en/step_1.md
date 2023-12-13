@@ -13,7 +13,7 @@ Click the run button, and you should see a blue rectangle.
 
 The sky has been drawn with a black border (stroke). 
 
-Turn the stroke off for all shapes. Add `no_stroke()` to the `setup` function:
+Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function:
 
 <div class="c-project-code">
 --- code ---

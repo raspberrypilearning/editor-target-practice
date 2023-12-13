@@ -20,9 +20,6 @@ def draw():
     rect(0, 250, 400, 150)  # Draw a rectangle
 --- /code ---
 </div>
---- /task ---
-In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
-Type the code to `print()`{:.language-python} Hello to the screen:
 
 --- /task ---
 

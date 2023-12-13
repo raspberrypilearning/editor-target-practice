@@ -1,7 +1,29 @@
-## What next?
+<h2 class="c-project-heading--task">Make the arrow move</h2>
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+The arrow needs to move randomly
 
-![ProjectName project](images/projectname-project.png)
+--- task ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+change the `arrow_x` and `arrow_y` variables so that are chosen each frame by random numbers.
+
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 8
+line_highlights: 9, 10
+---
+# The shoot_arrow function goes here
+def shoot_arrow():
+    arrow_x = randint(100, 300)
+    arrow_y = randint(100, 300)
+    fill('sienna')
+    circle(arrow_x, arrow_y, 15)
+
+--- /code ---
+</div>
+
+--- /task ---
+
+**Run** your code again to see the arrow jump around the target.

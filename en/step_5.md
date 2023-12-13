@@ -24,6 +24,8 @@ line_highlights: 24,25,26,27
 --- /code ---
 </div>
 
+--- /task ---
+
 **Run** your code again to see the full target
 
 <div class="c-project-callout c-project-callout--tip">
