@@ -4,7 +4,7 @@ The arrow needs to move randomly
 
 --- task ---
 
-change the `arrow_x` and `arrow_y` variables so that are chosen each frame by random numbers.
+change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that are chosen each frame by random numbers.
 
 <div class="c-project-code">
 --- code ---

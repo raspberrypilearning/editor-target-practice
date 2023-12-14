@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Get the colour</h2>
 
-The arrow needs to move randomly
-
 --- task ---
 
-change the `arrow_x` and `arrow_y` variables so that are chosen each frame by random numbers.
+Add a **global variable** called `hit_colour`{:.language-python} that can be used throughout your code. Then `get()`{:.language-python} the colour at `arrow_x, arrow_y`{:.language-python} and `print()`{:.language-python} it out.
 
 <div class="c-project-code">
 --- code ---
@@ -14,10 +12,13 @@ line_numbers: true
 line_number_start: 8
 line_highlights: 9, 10
 ---
-# The shoot_arrow function goes here
+# The shoot_arrow function goes here     
 def shoot_arrow():
-    arrow_x = randint(100, 300)
-    arrow_y = randint(100, 300)
+    global hit_colour  # Can be used in other functions  
+    arrow_x = randint(100, 300)  
+    arrow_y = randint(100, 300) 
+    hit_colour = get(arrow_x, arrow_y).hex
+    print(hit_colour)
     fill('sienna')
     circle(arrow_x, arrow_y, 15)
 
@@ -26,6 +27,15 @@ def shoot_arrow():
 
 --- /task ---
 
-**Run** your code again to see the arrow jump around the target.
+**Run** your code again to see the colours being printed in the **Text output**
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+Make sure you are in **Split view** so that you can see the **Text output** and the **Visual output**.
+
+The codes you see printed are the hexidecimal representations of the colours.
+
+</div>
 
 

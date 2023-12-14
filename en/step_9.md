@@ -1,7 +1,44 @@
-## What next?
+<h2 class="c-project-heading--task">Detect mouse clicks</h2>
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+--- task ---
+Comment out the line that prints the colour.
 
-![ProjectName project](images/projectname-project.png)
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 15
+line_highlights: 16
+---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+    hit_colour = get(arrow_x, arrow_y).hex
+    # print(hit_colour)
+    circle(arrow_x, arrow_y, 15)
+
+--- /code ---
+</div>
+
+Define your `mouse_pressed()`{:.language-python} function under the comment `# The mouse_pressed function goes here`{:.language-python}. 
+
+Add code to print the target emoji 🎯 when the mouse is clicked.
+
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 5
+line_highlights: 6,7
+---
+
+# The mouse_pressed function goes here    
+def mouse_pressed():    
+    print('🎯')
+
+--- /code ---
+</div>
+
+--- /task ---
+
+**Run** your code again to see the 🎯 character printed when you click the mouse

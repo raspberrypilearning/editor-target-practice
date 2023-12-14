@@ -1,7 +1,41 @@
-## What next?
+<h2 class="c-project-heading--task">More points</h2>
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+--- task ---
+`elif` can be used to add more conditions to your `if` statement.
 
-![ProjectName project](images/projectname-project.png)
+Score points if the arrow lands on the `inner` or `middle` circles 🎯: 
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 5
+line_highlights: 10-13
+---
+
+# The mouse_pressed function goes here
+def mouse_pressed():    
+    # print('🎯')
+    if hit_colour == Color('blue').hex:
+        print('You hit the outer circle, 50 points!')
+    elif hit_colour == Color('red').hex:
+        print('You hit the inner circle, 200 points!')
+    elif hit_colour == Color('yellow').hex:
+        print('You hit the middle, 500 points!')
+--- /code ---
+</div>
+
+--- /task ---
+
+**Run** your code again. You should score points whenever you hit the target.
+
+### Debugging
+
++ Check that your indentation matches the example.
+
++ Make sure you have entered the correct colour names for your circles. 
+
++ Make sure you have used the `.hex` string for your circle colours.
+
+</div>
