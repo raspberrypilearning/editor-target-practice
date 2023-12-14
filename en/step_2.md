@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add a second `rect`{:.language-python}, coloured green and  
+Add a second rectangle (`rect`{:.language-python}), coloured green and positioned lower in the view. 
 
 <div class="c-project-code">
 --- code ---

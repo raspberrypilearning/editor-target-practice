@@ -1,8 +1,7 @@
 <h2 class="c-project-heading--task">Add an arrow</h2>
 
-The archery target needs some more circles.
-
 --- task ---
+The archery target needs some more circles.
 
 Add an even small circle to represent an arrow.
 
@@ -23,10 +22,6 @@ def shoot_arrow():
 
 --- /code ---
 </div>
-
---- /task ---
-
---- task ---
 
 Call your function inside your `draw()`{:.language-python} function.
 

@@ -2,14 +2,8 @@
 
 The [starter project](https://editor.raspberrypi.org/en/projects/target-practice-starter) has some code already written for you.
 
-
 --- task ---
-
 Click the run button, and you should see a blue rectangle.
-
---- /task ---
-
---- task ---
 
 The sky has been drawn with a black border (stroke). 
 

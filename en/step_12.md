@@ -2,9 +2,9 @@
 
 --- task ---
 
-There is one more decision you need to make: what happens if the arrow does not land on any of the target circles? ❌ 
+There is one more decision you need to make: what happens if the arrow does not land on any of the target circles?
 
-To do this last check, you use `else`.
+To do this last check, you use `else`{:.language-python}.
 
 <div class="c-project-code">
 --- code ---

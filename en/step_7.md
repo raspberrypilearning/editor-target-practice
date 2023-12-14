@@ -1,8 +1,7 @@
 <h2 class="c-project-heading--task">Make the arrow move</h2>
 
-The arrow needs to move randomly
-
 --- task ---
+The arrow needs to move randomly
 
 change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that are chosen each frame by random numbers.
 

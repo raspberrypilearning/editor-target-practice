@@ -1,8 +1,7 @@
 <h2 class="c-project-heading--task">Add a target circle</h2>
 
-The archery target needs some circles attached to the stand.
-
 --- task ---
+The archery target needs some circles attached to the stand.
 
 The largest part of the target is a blue **circle**.
 
@@ -25,7 +24,6 @@ line_highlights: 12
 </div>
 
 --- /task ---
-
 
 **Run** your code again to see the taget
 

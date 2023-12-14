@@ -1,8 +1,7 @@
 <h2 class="c-project-heading--task">Draw a stand</h2>
 
-Your game needs a target to shoot arrows at.
-
 --- task ---
+Your game needs a target to shoot arrows at.
 
 Add a brown triangle to your foreground
 

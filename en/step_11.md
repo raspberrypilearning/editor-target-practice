@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">More points</h2>
 
 --- task ---
-`elif` can be used to add more conditions to your `if` statement.
 
-Score points if the arrow lands on the `inner` or `middle` circles 🎯: 
+`elif`{:.language-python} can be used to add more conditions to your `if`{:.language-python} statement.
+
+Score points if the arrow lands on the **inner** or **middle** circles: 
 
 <div class="c-project-code">
 --- code ---
