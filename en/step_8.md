@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Make the arrow move</h2>
+<h2 class="c-project-heading--task">Get the colour</h2>
 
 The arrow needs to move randomly
 
@@ -27,3 +27,5 @@ def shoot_arrow():
 --- /task ---
 
 **Run** your code again to see the arrow jump around the target.
+
+
