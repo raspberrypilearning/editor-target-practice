@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
-The [starter project](https://editor.raspberrypi.org/en/projects/target-practice-starter) has some code already written for you.
+The [starter project](https://editor.raspberrypi.org/en/projects/editor-target-practice-starter) has some code already written for you.
 
 --- task ---
 Click the run button, and you should see a blue rectangle.
