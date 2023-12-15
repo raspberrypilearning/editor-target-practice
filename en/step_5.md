@@ -3,15 +3,15 @@
 --- task ---
 The archery target needs some more circles.
 
-Add a smaller red and even smaller yellow triangle
+Add a smaller red and even smaller yellow circle.
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 22
-line_highlights: 24-27
+line_number_start: 28
+line_highlights: 30-33
 ---
     fill('blue')
     circle(200, 200, 170)

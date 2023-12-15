@@ -9,8 +9,8 @@ Add a **global variable** called `hit_colour`{:.language-python} that can be use
 ---
 language: python
 line_numbers: true
-line_number_start: 8
-line_highlights: 9, 10
+line_number_start: 9
+line_highlights: 11, 14, 15
 ---
 # The shoot_arrow function goes here     
 def shoot_arrow():

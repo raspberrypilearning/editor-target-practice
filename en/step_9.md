@@ -8,8 +8,8 @@ Comment out the line that prints the colour.
 ---
 language: python
 line_numbers: true
-line_number_start: 15
-line_highlights: 16
+line_number_start: 14
+line_highlights: 15
 ---
 
     hit_colour = get(arrow_x, arrow_y).hex

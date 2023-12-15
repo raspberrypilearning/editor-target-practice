@@ -13,7 +13,7 @@ Notice that the code uses two equals signs `==`{:.language-python} to mean **equ
 language: python
 line_numbers: true
 line_number_start: 5
-line_highlights: 7-9
+line_highlights: 8-9
 ---
   
 # The mouse_pressed function goes here
@@ -21,6 +21,7 @@ def mouse_pressed():
     # print('🎯')
     if hit_colour == Color('blue').hex:
         print('You hit the outer circle, 50 points!')
+    
 --- /code ---
 </div>
 

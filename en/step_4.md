@@ -12,10 +12,10 @@ Draw a circle with x and y coordinates for its centre and a width.
 ---
 language: python
 line_numbers: true
-line_number_start: 20
-line_highlights: 22-23
+line_number_start: 26
+line_highlights: 28-29
 ---
-    fill('sienna')  # Brown colour
+    fill('sienna')
     triangle(150, 350, 200, 150, 250, 350)
     fill('blue')
     circle(200, 200, 170)

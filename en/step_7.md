@@ -10,8 +10,8 @@ change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variabl
 ---
 language: python
 line_numbers: true
-line_number_start: 8
-line_highlights: 9, 10
+line_number_start: 9
+line_highlights: 11-12
 ---
 # The shoot_arrow function goes here
 def shoot_arrow():

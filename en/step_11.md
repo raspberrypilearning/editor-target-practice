@@ -16,7 +16,7 @@ line_highlights: 10-13
 ---
 
 # The mouse_pressed function goes here
-def mouse_pressed():    
+def mouse_pressed():
     # print('🎯')
     if hit_colour == Color('blue').hex:
         print('You hit the outer circle, 50 points!')

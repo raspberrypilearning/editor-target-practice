@@ -1,17 +1,20 @@
 <h2 class="c-project-heading--task">Add an arrow</h2>
 
 --- task ---
-The archery target needs some more circles.
 
 Add an even small circle to represent an arrow.
+
+This circle will be drawn using a function.
+
+Add a function to draw another circle at coordinates `200`, `200`
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 22
-line_highlights: 24,25,26,27
+line_number_start: 9
+line_highlights: 10-14
 ---
 # The shoot_arrow function goes here
 def shoot_arrow():
@@ -30,8 +33,8 @@ Call your function inside your `draw()`{:.language-python} function.
 ---
 language: python
 line_numbers: true
-line_number_start: 33
-line_highlights: 35
+line_number_start: 36
+line_highlights: 38
 ---
     fill('yellow')
     circle(200, 200, 30)
