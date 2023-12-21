@@ -27,7 +27,7 @@ def setup():
 </div>
 
  --- /task ---
-**Run** your code again. Did you notice that the border (stroke) has now disappeared?
+**Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
 <div class="c-project-callout c-project-callout--tip">
 

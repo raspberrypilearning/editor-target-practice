@@ -27,7 +27,7 @@ def shoot_arrow():
 
 --- /task ---
 
-**Run** your code again to see the colours being printed in the **Text output**
+**Test:** Click the **Run** button. You should see the colours being printed in the **Text output**
 
 <div class="c-project-callout c-project-callout--tip">
 

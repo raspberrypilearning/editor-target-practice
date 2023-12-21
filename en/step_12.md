@@ -31,4 +31,4 @@ def mouse_pressed():
 
 --- /task ---
 
-**Run** your project. Fire the arrow in the grass or sky to see the miss message.
+**Test:** Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.

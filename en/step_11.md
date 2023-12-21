@@ -29,7 +29,7 @@ def mouse_pressed():
 
 --- /task ---
 
-**Run** your code again. You should score points whenever you hit the target.
+**Test:** Click the **Run** button.You should score points whenever you hit the target.
 
 ### Debugging
 

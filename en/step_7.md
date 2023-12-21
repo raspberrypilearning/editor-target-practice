@@ -25,4 +25,4 @@ def shoot_arrow():
 
 --- /task ---
 
-**Run** your code again to see the arrow jump around the target.
+**Test:** Click the **Run** button. You should see the arrow jump around the target.

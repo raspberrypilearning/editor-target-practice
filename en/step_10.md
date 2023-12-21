@@ -27,7 +27,7 @@ def mouse_pressed():
 
 --- /task ---
 
-**Run** your code again. Wait for the arrow to land on the blue circle, then click your left mouse button.
+**Test:** Click the **Run** button. Wait for the arrow to land on the blue circle, then click your left mouse button.
 
 <div class="c-project-callout c-project-callout--debug">
 

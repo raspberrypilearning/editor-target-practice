@@ -23,5 +23,5 @@ def draw():
 
 --- /task ---
 
-**Run** your code again to see the full background.
+**Test:** Click the **Run** button. You should see the full background.
 

@@ -25,7 +25,7 @@ line_highlights: 28-29
 
 --- /task ---
 
-**Run** your code again to see the taget
+**Test:** Click the **Run** button. You should see the target.
 
 
 

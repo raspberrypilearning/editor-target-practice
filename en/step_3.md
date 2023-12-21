@@ -22,7 +22,7 @@ line_highlights: 25-27
 
 --- /task ---
 
-**Run** your code again to see the triangle
+**Test:** Click the **Run** button. You should see the triangle
 
 <div class="c-project-callout c-project-callout--tip">
 

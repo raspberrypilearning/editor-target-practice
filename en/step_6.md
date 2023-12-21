@@ -45,4 +45,4 @@ line_highlights: 38
 
 --- /task ---
 
-**Run** your code again to see the arrow in the centre
+**Test:** Click the **Run** button. You should see the arrow in the centre
