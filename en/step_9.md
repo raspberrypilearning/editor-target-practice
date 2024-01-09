@@ -41,4 +41,4 @@ def mouse_pressed():
 
 --- /task ---
 
-**Test:** Click the **Run** button. You should see the 🎯 character printed when you click the mouse
+**Test:** Click the **Run** button. You should see the 🎯 character printed when you click the mouse.

@@ -6,7 +6,7 @@ Add an even small circle to represent an arrow.
 
 This circle will be drawn using a function.
 
-Add a function to draw another circle at coordinates `200`, `200`
+Add a function to draw another circle at coordinates `200`, `200`.
 
 <div class="c-project-code">
 --- code ---
@@ -45,4 +45,4 @@ line_highlights: 38
 
 --- /task ---
 
-**Test:** Click the **Run** button. You should see the arrow in the centre
+**Test:** Click the **Run** button. You should see the arrow in the centre.
