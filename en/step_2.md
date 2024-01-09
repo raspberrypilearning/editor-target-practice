@@ -25,3 +25,11 @@ def draw():
 
 **Test:** Click the **Run** button. You should see the full background.
 
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+Make sure your code matches exactly and you have indented the code inside the function correctly. 
+
+</div>
+

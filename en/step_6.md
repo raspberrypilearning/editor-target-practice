@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add an even small circle to represent an arrow.
+Add an even smaller circle to represent an arrow.
 
 This circle will be drawn using a function.
 
