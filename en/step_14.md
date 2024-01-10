@@ -1,6 +1,8 @@
-<h2 class="c-project-heading--task">You've completed the target practice project 🎉</h2>
+<h2 class="c-project-heading--task">You've completed the project 🎉</h2>
 
 --- task ---
+
+We'd love to hear your thoughts about using the Code editor to complete the Target Practice project! Please complete our [feedback form](https://form.raspberrypi.org/4873648) to let us know.
 
 <h3 class="c-project-heading--task">What next?</h3>
 
@@ -8,8 +10,3 @@ If you are following the [Introduction to Python](https://projects.raspberrypi.o
 
 --- /task ---
 
---- task ---
-
-We'd love to hear your thoughts about using the Code editor to complete this project! Please complete our [feedback form](https://form.raspberrypi.org/4873648) to let us know.
-
---- /task ---

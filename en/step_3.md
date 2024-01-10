@@ -3,7 +3,7 @@
 --- task ---
 Your game needs a target to shoot arrows at.
 
-Add a brown triangle to your foreground
+Add a brown triangle to your foreground.
 
 <div class="c-project-code">
 --- code ---
@@ -22,7 +22,7 @@ line_highlights: 25-27
 
 --- /task ---
 
-**Test:** Click the **Run** button. You should see the triangle
+**Test:** Click the **Run** button. You should see the triangle.
 
 <div class="c-project-callout c-project-callout--tip">
 

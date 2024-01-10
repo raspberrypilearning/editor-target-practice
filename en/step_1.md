@@ -1,13 +1,15 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
 --- task ---
-The [starter project](https://staging-editor.raspberrypi.org/en/projects/editor-target-practice-starter) has some code already written for you.
+The starter project to the right has some code already written for you.
 
 Click the run button, and you should see a blue rectangle.
 
 The sky has been drawn with a black border (stroke). 
 
-Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function:
+Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function.
+
+ --- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -26,7 +28,6 @@ def setup():
 
 </div>
 
- --- /task ---
 **Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
 <div class="c-project-callout c-project-callout--tip">
@@ -34,6 +35,8 @@ def setup():
 ### Tip
 
 Coordinates start from (x=0, y=0) in the top left-hand corner. This might be different to other coordinate systems you have used.
+
+If you see an alert "Execution interrupted" when you click stop on your program, don't be concerned. This just means the normal flow of the program was stopped.
 
 </div>
 

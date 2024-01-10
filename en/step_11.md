@@ -4,7 +4,7 @@
 
 `elif`{:.language-python} can be used to add more conditions to your `if`{:.language-python} statement.
 
-Score points if the arrow lands on the **inner** or **middle** circles: 
+Score points if the arrow lands on the **inner** or **middle** circles.
 
 <div class="c-project-code">
 --- code ---
@@ -30,6 +30,8 @@ def mouse_pressed():
 --- /task ---
 
 **Test:** Click the **Run** button.You should score points whenever you hit the target.
+
+<div class="c-project-callout c-project-callout--debug">
 
 ### Debugging
 

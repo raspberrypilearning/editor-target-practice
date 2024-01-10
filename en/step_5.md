@@ -25,7 +25,7 @@ line_highlights: 30-33
 
 --- /task ---
 
-**Test:** Click the **Run** button. You should see the full target
+**Test:** Click the **Run** button. You should see the full target.
 
 <div class="c-project-callout c-project-callout--tip">
 
