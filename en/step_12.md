@@ -34,4 +34,4 @@ def mouse_pressed():
 
 **Test:** Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.
 
-![no points printed when outside target](images/no_points.gif)
+![no points printed when outside target](images/missed_no_points.gif)
