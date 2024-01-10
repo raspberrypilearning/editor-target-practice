@@ -18,8 +18,8 @@ language: python
 ---
 
 def setup():   
-  size(400, 400)      
-  no_stroke()  
+    size(400, 400)      
+    no_stroke()  
   
 --- /code ---
 

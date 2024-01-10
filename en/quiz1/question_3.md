@@ -12,9 +12,9 @@ language: python
 ---
 
 def setup():   
-  size(400, 400)   
-  fill(0, 255, 0)   
-  no_stroke()   
+    size(400, 400)   
+    fill(0, 255, 0)   
+    no_stroke()   
     
 def draw():   
   circle(0, 0, 300)    
