@@ -30,6 +30,8 @@ def setup():
 
 **Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
+![image of a blue rectangle](images/sky.png)
+
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip

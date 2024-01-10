@@ -4,6 +4,8 @@
 
 Add a **global variable** called `hit_colour`{:.language-python} that can be used throughout your code. Then `get()`{:.language-python} the colour at `arrow_x, arrow_y`{:.language-python} and `print()`{:.language-python} it out.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -25,11 +27,11 @@ def shoot_arrow():
 --- /code ---
 </div>
 
---- /task ---
-
-**Test:** Switch to Split View before running your code.Click the **Run** button. You should see the colours being printed in the **Text output**.
+**Test:** Stop your code from running, then switch to Split View before running your code again. Click the **Run** button. You should see the colours being printed in the **Text output**.
 
 ![Tabs showing visual output, text output and split view options.](images/split-view.png)
+
+![Split view showing hex colours printed in the text output](images/hex_colours_printed.gif)
 
 <div class="c-project-callout c-project-callout--tip">
 

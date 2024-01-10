@@ -6,6 +6,8 @@ There is one more decision you need to make: what happens if the arrow does not 
 
 To do this last check, you use `else`{:.language-python}.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -29,6 +31,7 @@ def mouse_pressed():
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.
+
+![no points printed when outside target](images/no_points.gif)

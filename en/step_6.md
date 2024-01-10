@@ -8,6 +8,11 @@ This circle will be drawn using a function.
 
 Add a function to draw another circle at coordinates `200`, `200`.
 
+Then call your function inside your `draw()`{:.language-python} function.
+
+--- /task ---
+
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -26,8 +31,6 @@ def shoot_arrow():
 --- /code ---
 </div>
 
-Call your function inside your `draw()`{:.language-python} function.
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -43,6 +46,7 @@ line_highlights: 38
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. You should see the arrow in the centre.
+
+![a brown arrow circle in the centre of the target](images/arrow-centre.png)

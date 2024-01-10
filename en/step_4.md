@@ -1,11 +1,14 @@
 <h2 class="c-project-heading--task">Add a target circle</h2>
 
 --- task ---
+
 The archery target needs some circles attached to the stand.
 
 The largest part of the target is a blue **circle**.
 
 Draw a circle with x and y coordinates for its centre and a width.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -23,9 +26,8 @@ line_highlights: 28-29
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. You should see the target.
 
-
+![a blue circle representing the target area](images/blue-circle.png)
 

@@ -6,6 +6,8 @@
 
 Score points if the arrow lands on the **inner** or **middle** circles.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -27,9 +29,10 @@ def mouse_pressed():
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button.You should score points whenever you hit the target.
+
+![points being scored on any area of target](images/points-scored.gif)
 
 <div class="c-project-callout c-project-callout--debug">
 

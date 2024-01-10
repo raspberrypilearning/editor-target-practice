@@ -2,7 +2,9 @@
 
 --- task ---
 
-Add a second rectangle (`rect`{:.language-python}), coloured green and positioned lower in the view. 
+Add a second rectangle (`rect`{:.language-python}), coloured green and positioned lower in the view.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -21,9 +23,11 @@ def draw():
 --- /code ---
 </div>
 
---- /task ---
+
 
 **Test:** Click the **Run** button. You should see the full background.
+
+![a blue rectangle over a green rectangle representing sky and grass](images/sky-grass.png)
 
 <div class="c-project-callout c-project-callout--debug">
 
