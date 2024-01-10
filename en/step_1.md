@@ -9,6 +9,8 @@ The sky has been drawn with a black border (stroke).
 
 Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function.
 
+ --- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -26,7 +28,6 @@ def setup():
 
 </div>
 
- --- /task ---
 **Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
 <div class="c-project-callout c-project-callout--tip">
