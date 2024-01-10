@@ -35,5 +35,7 @@ def setup():
 
 Coordinates start from (x=0, y=0) in the top left-hand corner. This might be different to other coordinate systems you have used.
 
+If you see an alert "Execution interrupted" when you click stop on your program, don't be concerned. This just means the normal flow of the program was stopped.
+
 </div>
 

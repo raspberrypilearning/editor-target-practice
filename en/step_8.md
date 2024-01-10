@@ -27,7 +27,9 @@ def shoot_arrow():
 
 --- /task ---
 
-**Test:** Click the **Run** button. You should see the colours being printed in the **Text output**.
+**Test:** Switch to Split View before running your code.Click the **Run** button. You should see the colours being printed in the **Text output**.
+
+![Tabs showing visual output, text output and split view options.](images/split-view.png)
 
 <div class="c-project-callout c-project-callout--tip">
 
