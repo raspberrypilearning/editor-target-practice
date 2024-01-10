@@ -7,6 +7,8 @@ Display a message **if** the `hit_colour`{:.language-python} is equal to the `ou
 
 Notice that the code uses two equals signs `==`{:.language-python} to mean **equal to**.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -25,9 +27,9 @@ def mouse_pressed():
 --- /code ---
 </div>
 
---- /task ---
-
 **Test:** Click the **Run** button. Wait for the arrow to land on the blue circle, then click your left mouse button.
+
+![points scored when blue circle clicked](images/blue_circle_points.gif)
 
 <div class="c-project-callout c-project-callout--debug">
 

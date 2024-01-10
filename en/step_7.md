@@ -26,3 +26,5 @@ def shoot_arrow():
 --- /task ---
 
 **Test:** Click the **Run** button. You should see the arrow jump around the target.
+
+![brown circle moving randomly around the target](images/random_arrow.gif)

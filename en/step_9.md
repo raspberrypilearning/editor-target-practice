@@ -1,7 +1,14 @@
 <h2 class="c-project-heading--task">Detect mouse clicks</h2>
 
 --- task ---
+
 Comment out the line that prints the colour.
+
+Define your `mouse_pressed()`{:.language-python} function under the comment `# The mouse_pressed function goes here`{:.language-python}. 
+
+Add code to print the target emoji 🎯 when the mouse is clicked.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -19,10 +26,6 @@ line_highlights: 15
 --- /code ---
 </div>
 
-Define your `mouse_pressed()`{:.language-python} function under the comment `# The mouse_pressed function goes here`{:.language-python}. 
-
-Add code to print the target emoji 🎯 when the mouse is clicked.
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -39,6 +42,8 @@ def mouse_pressed():
 --- /code ---
 </div>
 
---- /task ---
+
 
 **Test:** Click the **Run** button. You should see the 🎯 character printed when you click the mouse.
+
+![target emoji printed when mouse clicked](images/target_printed.gif)

@@ -1,9 +1,12 @@
 <h2 class="c-project-heading--task">Draw a stand</h2>
 
 --- task ---
+
 Your game needs a target to shoot arrows at.
 
 Add a brown triangle to your foreground.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -20,7 +23,6 @@ line_highlights: 25-27
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. You should see the triangle.
 

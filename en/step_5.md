@@ -1,10 +1,12 @@
 <h2 class="c-project-heading--task">Finish the target</h2>
 
 --- task ---
+
 The archery target needs some more circles.
 
 Add a smaller red and even smaller yellow circle.
 
+--- /task ---
 <div class="c-project-code">
 --- code ---
 ---
@@ -23,9 +25,9 @@ line_highlights: 30-33
 --- /code ---
 </div>
 
---- /task ---
-
 **Test:** Click the **Run** button. You should see the full target.
+
+![three circles representing a target](images/three-circles.png)
 
 <div class="c-project-callout c-project-callout--tip">
 
