@@ -36,8 +36,8 @@ def shoot_arrow():
 ---
 language: python
 line_numbers: true
-line_number_start: 36
-line_highlights: 38
+line_number_start: 35
+line_highlights: 37
 ---
     fill('yellow')
     circle(200, 200, 30)

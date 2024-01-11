@@ -15,8 +15,8 @@ Draw a circle with x and y coordinates for its centre and a width.
 ---
 language: python
 line_numbers: true
-line_number_start: 26
-line_highlights: 28-29
+line_number_start: 25
+line_highlights: 27-28
 ---
     fill('sienna')
     triangle(150, 350, 200, 150, 250, 350)

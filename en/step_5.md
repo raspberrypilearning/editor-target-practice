@@ -12,8 +12,8 @@ Add a smaller red and even smaller yellow circle.
 ---
 language: python
 line_numbers: true
-line_number_start: 28
-line_highlights: 30-33
+line_number_start: 27
+line_highlights: 29-32
 ---
     fill('blue')
     circle(200, 200, 170)
