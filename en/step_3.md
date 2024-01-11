@@ -13,8 +13,8 @@ Add a brown triangle to your foreground.
 ---
 language: python
 line_numbers: true
-line_number_start: 24
-line_highlights: 25-27
+line_number_start: 23
+line_highlights: 25-26
 ---
     fill('lightgreen')
     rect(0, 250, 400, 150)

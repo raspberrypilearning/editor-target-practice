@@ -11,8 +11,8 @@ Add a second rectangle (`rect`{:.language-python}), coloured green and positione
 ---
 language: python
 line_numbers: true
-line_number_start: 20
-line_highlights: 24-35
+line_number_start: 19
+line_highlights: 23-24
 ---
 def draw():
 # Things to do in every frame
