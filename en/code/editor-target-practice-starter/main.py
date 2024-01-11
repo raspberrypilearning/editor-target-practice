@@ -15,12 +15,11 @@ def setup():
     size(400, 400)
 
 
-
 def draw():
     # Things to do in every frame
     fill('cyan')
     rect(0, 0, 400, 250)
 
 
-# Keep this to run your code.
+# Keep this to run your code
 run(frame_rate=2)
