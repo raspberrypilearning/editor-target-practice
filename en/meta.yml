@@ -28,6 +28,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+  - title: Step 14
     completion:
       - external
-  - title: Step 14
