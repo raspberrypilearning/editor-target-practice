@@ -8,7 +8,7 @@ last_tested: "2022-05-19"
 steps:
   - title: Step 1
   - title: Step 2
-      completion:
+    completion:
       - engaged
   - title: Step 3
   - title: Step 4
@@ -20,7 +20,7 @@ steps:
   - title: Step 10
   - title: Step 11
   - title: Step 12
-      completion:
+    completion:
       - internal
   - title: Step 13
     knowledge_quiz:
@@ -28,7 +28,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-  - title: Step 14
-      completion:
+    completion:
       - external
-  
+  - title: Step 14
