@@ -5,6 +5,8 @@ The arrow needs to move randomly.
 
 Change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that each frame is chosen by random numbers.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -22,8 +24,6 @@ def shoot_arrow():
 
 --- /code ---
 </div>
-
---- /task ---
 
 **Test:** Click the **Run** button. You should see the arrow jump around the target.
 
