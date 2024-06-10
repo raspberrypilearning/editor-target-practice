@@ -1,15 +1,16 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
 --- task ---
-The starter project to the right has some code already written for you.
 
-Click the run button, and you should see a blue rectangle.
+This project contains code to draw the sky as a blue rectangle.
 
-The sky has been drawn with a black border (stroke). 
+➡️ Remove the black border from the background.
+
+--- /task ---
+
+Click the run button, and you should see a blue rectangle with a black border (stroke). 
 
 Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function.
-
- --- /task ---
 
 <div class="c-project-code">
 --- code ---

@@ -1,10 +1,11 @@
 <h2 class="c-project-heading--task">Draw the grass</h2>
 
 --- task ---
-
-Add a second rectangle (`rect`{:.language-python}), coloured green and positioned lower in the view.
+➡️ Draw a green rectangle to represent the grass.
 
 --- /task ---
+
+Add a second light green rectangle (`rect`{:.language-python}) to represent the grass.
 
 <div class="c-project-code">
 --- code ---
@@ -22,8 +23,6 @@ def draw():
     rect(0, 250, 400, 150)
 --- /code ---
 </div>
-
-
 
 **Test:** Click the **Run** button. You should see the full background.
 
