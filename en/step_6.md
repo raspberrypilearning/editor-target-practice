@@ -2,16 +2,12 @@
 
 --- task ---
 
-Add an even smaller circle to represent an arrow.
-
-This circle will be drawn using a function.
-
-Add a function to draw another circle at coordinates `200`, `200`.
-
-Then call your function inside your `draw()`{:.language-python} function.
-
+➡️ Create a function that draws a small circle to represent an arrow. 
 --- /task ---
 
+The arrow will be drawn using a function.
+
+Add a function to draw a sienna coloured circle at coordinates `200`, `200`.
 
 <div class="c-project-code">
 --- code ---
@@ -30,6 +26,8 @@ def shoot_arrow():
 
 --- /code ---
 </div>
+
+Then call the function inside your `draw()`{:.language-python} function.
 
 <div class="c-project-code">
 --- code ---
