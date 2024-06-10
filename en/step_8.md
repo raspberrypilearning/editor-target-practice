@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Get the colour</h2>
 
 --- task ---
-
-Add a **global variable** called `hit_colour`{:.language-python} that can be used throughout your code. Then `get()`{:.language-python} the colour at `arrow_x, arrow_y`{:.language-python} and `print()`{:.language-python} it out.
-
+➡️ Find out which colour the arrow is touching. 
 --- /task ---
+
+Add code to find the colour at the arrow's x,y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
 <div class="c-project-code">
 --- code ---
