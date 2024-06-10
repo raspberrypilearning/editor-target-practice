@@ -5,7 +5,7 @@
 
 --- /task ---
 
-Add a second light green rectangle (`rect`{:.language-python}) to represent the grass.
+Add a second light green rectangle (`rect`{:.language-python}) at the bottom of the background.
 
 <div class="c-project-code">
 --- code ---

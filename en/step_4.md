@@ -2,13 +2,15 @@
 
 --- task ---
 
+➡️ Draw a circle to represent a target.
+
+--- /task ---
+
 The archery target needs some circles attached to the stand.
 
 The largest part of the target is a blue **circle**.
 
-Draw a circle with x and y coordinates for its centre and a width.
-
---- /task ---
+Draw a circle by providing x and y coordinates for its centre, and a width.
 
 <div class="c-project-code">
 --- code ---

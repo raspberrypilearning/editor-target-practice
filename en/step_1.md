@@ -8,9 +8,11 @@ This project contains code to draw the sky as a blue rectangle.
 
 --- /task ---
 
-Click the run button, and you should see a blue rectangle with a black border (stroke). 
+The border of a shape is called the **stroke**.
 
-Turn the stroke off for all shapes. Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function.
+Click the run button, and you should see a blue rectangle with a black border. 
+
+Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function to turn the stroke off for all shapes. 
 
 <div class="c-project-code">
 --- code ---
