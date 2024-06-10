@@ -1,12 +1,12 @@
 <h2 class="c-project-heading--task">More points</h2>
 
 --- task ---
+➡️ If the arrow hit red or yellow, print out a message. 
+--- /task ---
 
 `elif`{:.language-python} can be used to add more conditions to your `if`{:.language-python} statement.
 
-Score points if the arrow lands on the **inner** or **middle** circles.
-
---- /task ---
+Display a different message if the arrow lands on the **inner** or **middle** circle.
 
 <div class="c-project-code">
 --- code ---
