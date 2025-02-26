@@ -2,11 +2,13 @@
 
 --- task ---
 
+➡️ Draw two more circles to complete the target.
+--- /task ---
+
 The archery target needs some more circles.
 
 Add a smaller red and even smaller yellow circle.
 
---- /task ---
 <div class="c-project-code">
 --- code ---
 ---

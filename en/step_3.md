@@ -4,7 +4,7 @@
 
 Your game needs a target to shoot arrows at.
 
-Add a brown triangle to your foreground.
+➡️ Draw a brown triangle to represent the target stand.
 
 --- /task ---
 

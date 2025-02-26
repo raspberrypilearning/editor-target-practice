@@ -1,13 +1,15 @@
 <h2 class="c-project-heading--task">Scoring points</h2>
 
 --- task ---
+➡️ If the arrow hit blue, print a message. 
+
+--- /task ---
+
 Comment out the line to print the 🎯 character.
 
 Display a message **if** the `hit_colour`{:.language-python} is equal to the `outer` circle colour (blue). 
 
 Notice that the code uses two equals signs `==`{:.language-python} to mean **equal to**.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---

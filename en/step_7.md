@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Make the arrow move</h2>
 
 --- task ---
-The arrow needs to move randomly.
-
-Change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that each frame is chosen by random numbers.
-
+➡️ Make the arrow appear at random positions on the screen.
 --- /task ---
+
+Change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that each position is chosen by random numbers.
 
 <div class="c-project-code">
 --- code ---
