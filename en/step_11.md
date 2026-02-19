@@ -4,7 +4,7 @@
 ➡️ If the arrow hit red or yellow, print out a message. 
 --- /task ---
 
-`elif`{:.language-python} can be used to add more conditions to your `if`{:.language-python} statement.
+`elif` can be used to add more conditions to your `if` statement.
 
 Display a different message if the arrow lands on the **inner** or **middle** circle.
 

@@ -49,6 +49,6 @@ def mouse_pressed():
 
 ### Tip
 
-The `mouse_pressed()`{:.language-python} function is automatically called by the `p5` library when the left mouse button is pressed.
+The `mouse_pressed()` function is automatically called by the `p5` library when the left mouse button is pressed.
 
 </div>

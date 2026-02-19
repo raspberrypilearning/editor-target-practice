@@ -4,7 +4,7 @@
 ➡️ Make the arrow appear at random positions on the screen.
 --- /task ---
 
-Change the `arrow_x`{:.language-python} and `arrow_y`{:.language-python} variables so that each position is chosen by random numbers.
+Change the `arrow_x` and `arrow_y` variables so that each position is chosen by random numbers.
 
 <div class="c-project-code">
 --- code ---
