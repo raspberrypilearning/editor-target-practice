@@ -27,7 +27,7 @@ def shoot_arrow():
 --- /code ---
 </div>
 
-Then call the function inside your `draw()`{:.language-python} function.
+Then call the function inside your `draw()` function.
 
 <div class="c-project-code">
 --- code ---

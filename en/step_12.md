@@ -6,7 +6,7 @@
 --- /task ---
 There is one more decision you need to make: what happens if the arrow does not land on any of the target circles?
 
-To do this last check, you use `else`{:.language-python}.
+To do this last check, you use `else`.
 
 <div class="c-project-code">
 --- code ---

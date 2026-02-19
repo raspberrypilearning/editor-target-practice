@@ -5,7 +5,7 @@
 
 --- /task ---
 
-Add a second light green rectangle (`rect`{:.language-python}) at the bottom of the background.
+Add a second light green rectangle (`rect`) at the bottom of the background.
 
 <div class="c-project-code">
 --- code ---

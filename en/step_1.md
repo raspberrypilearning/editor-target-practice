@@ -12,7 +12,7 @@ The border of a shape is called the **stroke**.
 
 Click the run button, and you should see a blue rectangle with a black border. 
 
-Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function to turn the stroke off for all shapes. 
+Add `no_stroke()` to the `setup` function to turn the stroke off for all shapes. 
 
 <div class="c-project-code">
 --- code ---
