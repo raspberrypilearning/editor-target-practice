@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Missing the target</h2>
 
---- task ---
+### Step 1
 ➡️ If the arrow did not land anywhere on the target, display a message. 
 
---- /task ---
 There is one more decision you need to make: what happens if the arrow does not land on any of the target circles?
 
 To do this last check, you use `else`.

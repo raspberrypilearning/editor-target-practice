@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
---- task ---
+### Step 1
 
 This project contains code to draw the sky as a blue rectangle.
 
 ➡️ Remove the black border from the background.
 
---- /task ---
 
 The border of a shape is called the **stroke**.
 
@@ -44,4 +43,3 @@ Coordinates start from (x=0, y=0) in the top left-hand corner. This might be dif
 If you see an alert "Execution interrupted" when you click stop on your program, don't be concerned. This just means the normal flow of the program was stopped.
 
 </div>
-

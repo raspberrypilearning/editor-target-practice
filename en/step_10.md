@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Scoring points</h2>
 
---- task ---
+### Step 1
 ➡️ If the arrow hit blue, print a message. 
 
---- /task ---
 
 Comment out the line to print the 🎯 character.
 

@@ -1,8 +1,7 @@
 <h2 class="c-project-heading--task">Get the colour</h2>
 
---- task ---
+### Step 1
 ➡️ Find out which colour the arrow is touching. 
---- /task ---
 
 Add code to find the colour at the arrow's x, y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
@@ -41,5 +40,3 @@ Make sure you are in **Split view** so that you can see the **Text output** and 
 The codes you see printed are the hexidecimal representations of the colours.
 
 </div>
-
-

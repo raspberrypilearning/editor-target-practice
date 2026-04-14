@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Draw the grass</h2>
 
---- task ---
+### Step 1
 ➡️ Draw a green rectangle to represent the grass.
 
---- /task ---
 
 Add a second light green rectangle (`rect`) at the bottom of the background.
 
@@ -35,4 +34,3 @@ def draw():
 Make sure your code matches exactly and you have indented the code inside the function correctly. 
 
 </div>
-

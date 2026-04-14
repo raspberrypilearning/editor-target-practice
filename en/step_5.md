@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Finish the target</h2>
 
---- task ---
+### Step 1
 
 ➡️ Draw two more circles to complete the target.
---- /task ---
 
 The archery target needs some more circles.
 

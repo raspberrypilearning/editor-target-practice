@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add an arrow</h2>
 
---- task ---
+### Step 1
 
 ➡️ Create a function that draws a small circle to represent an arrow. 
---- /task ---
 
 The arrow will be drawn using a function.
 

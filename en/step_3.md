@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Draw a stand</h2>
 
---- task ---
+### Step 1
 
 Your game needs a target to shoot arrows at.
 
 ➡️ Draw a brown triangle to represent the target stand.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -29,4 +28,3 @@ line_highlights: 25-26
 <div class="c-project-callout c-project-callout--tip">
 
 ![A brown triangle on grass and against a sky.](images/target-stand.png){:width="400px"}
-
