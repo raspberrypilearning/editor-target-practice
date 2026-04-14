@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add a target circle</h2>
 
-### Step 1
-
 ➡️ Draw a circle to represent a target.
 
+### Step 1
 
 The archery target needs some circles attached to the stand.
 

@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
-### Step 1
-
 This project contains code to draw the sky as a blue rectangle.
+
+### Step 1
 
 ➡️ Remove the black border from the background.
 

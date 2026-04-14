@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Detect mouse clicks</h2>
 
-### Step 1
-
 ➡️ Print a target emoji 🎯 when the mouse button is pressed.
 
+### Step 1
 
 Comment out the line that prints the colour.
 

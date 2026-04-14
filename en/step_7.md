@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">Make the arrow move</h2>
 
-### Step 1
 ➡️ Make the arrow appear at random positions on the screen.
+
+### Step 1
 
 Change the `arrow_x` and `arrow_y` variables so that each position is chosen by random numbers.
 

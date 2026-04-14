@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">More points</h2>
 
+➡️ If the arrow hit red or yellow, print out a message.
+
 ### Step 1
-➡️ If the arrow hit red or yellow, print out a message. 
 
 `elif` can be used to add more conditions to your `if` statement.
 
