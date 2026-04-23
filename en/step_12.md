@@ -2,7 +2,7 @@
 
 ➡️ If the arrow did not land anywhere on the target, display a message.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 There is one more decision you need to make: what happens if the arrow does not land on any of the target circles?
 
@@ -31,7 +31,12 @@ def mouse_pressed():
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.
+Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.
 
+<div class="c-project-output">
 ![no points printed when outside target](images/missed_no_points.gif)
+</div>
+
+Confirm the observable result.

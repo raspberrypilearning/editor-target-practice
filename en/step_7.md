@@ -2,7 +2,7 @@
 
 ➡️ Make the arrow appear at random positions on the screen.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Change the `arrow_x` and `arrow_y` variables so that each position is chosen by random numbers.
 
@@ -24,6 +24,12 @@ def shoot_arrow():
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. You should see the arrow jump around the target.
+## Now run your code
 
+Click the **Run** button. You should see the arrow jump around the target.
+
+<div class="c-project-output">
 ![brown circle moving randomly around the target](images/random_arrow.gif)
+</div>
+
+Confirm the observable result.

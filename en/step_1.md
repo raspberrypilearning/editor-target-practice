@@ -2,7 +2,7 @@
 
 This project contains code to draw the sky as a blue rectangle.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Remove the black border from the background.
 
@@ -30,16 +30,21 @@ def setup():
 
 </div>
 
-**Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
+## Now run your code
 
+Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
+
+<div class="c-project-output">
 ![image of a blue rectangle](images/sky.png)
+</div>
+### Tip
 
 <div class="c-project-callout c-project-callout--tip">
-
-### Tip
 
 Coordinates start from (x=0, y=0) in the top left-hand corner. This might be different to other coordinate systems you have used.
 
 If you see an alert "Execution interrupted" when you click stop on your program, don't be concerned. This just means the normal flow of the program was stopped.
 
 </div>
+
+Confirm the observable result.

@@ -2,7 +2,7 @@
 
 ➡️ Print a target emoji 🎯 when the mouse button is pressed.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Comment out the line that prints the colour.
 
@@ -37,16 +37,19 @@ def mouse_pressed():
 --- /code ---
 </div>
 
+## Now run your code
 
+Click the **Run** button. You should see the 🎯 character printed when you click the mouse.
 
-**Test:** Click the **Run** button. You should see the 🎯 character printed when you click the mouse.
-
+<div class="c-project-output">
 ![target emoji printed when mouse clicked](images/target_printed.gif)
+</div>
+### Tip
 
 <div class="c-project-callout c-project-callout--tip">
-
-### Tip
 
 The `mouse_pressed()` function is automatically called by the `p5` library when the left mouse button is pressed.
 
 </div>
+
+Confirm the observable result.

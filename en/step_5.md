@@ -2,7 +2,7 @@
 
 ➡️ Draw two more circles to complete the target.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The archery target needs some more circles.
 
@@ -26,13 +26,18 @@ line_highlights: 29-32
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. You should see the full target.
+## Now run your code
 
+Click the **Run** button. You should see the full target.
+
+<div class="c-project-output">
 ![three circles representing a target](images/three-circles.png)
-
+</div>
+### Tip
 <div class="c-project-callout c-project-callout--tip">
 
-### Tip
 You can find a list of all of the available colour names on [W3Schools](https://www.w3schools.com/colors/colors_names.asp){:target="blank"}. 
 
 </div>
+
+Confirm the observable result.

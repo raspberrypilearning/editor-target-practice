@@ -2,7 +2,7 @@
 
 ➡️ If the arrow hit red or yellow, print out a message.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 `elif` can be used to add more conditions to your `if` statement.
 
@@ -29,14 +29,16 @@ def mouse_pressed():
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button.You should score points whenever you hit the target.
+Click the **Run** button.You should score points whenever you hit the target.
 
+<div class="c-project-output">
 ![points being scored on any area of target](images/points-scored.gif)
+</div>
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
-
-### Debugging
 
 + Check that your indentation matches the example.
 
@@ -45,3 +47,5 @@ def mouse_pressed():
 + Make sure you have used the `.hex` string for your circle colours.
 
 </div>
+
+Confirm the observable result.

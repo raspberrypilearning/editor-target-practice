@@ -2,7 +2,7 @@
 
 ➡️ Draw a circle to represent a target.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The archery target needs some circles attached to the stand.
 
@@ -26,7 +26,12 @@ line_highlights: 27-28
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. You should see the target.
+Click the **Run** button. You should see the target.
 
+<div class="c-project-output">
 ![a blue circle representing the target area](images/blue-circle.png)
+</div>
+
+Confirm the observable result.

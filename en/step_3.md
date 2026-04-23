@@ -2,7 +2,7 @@
 
 Your game needs a target to shoot arrows at.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Draw a brown triangle to represent the target stand.
 
@@ -22,9 +22,14 @@ line_highlights: 25-26
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. You should see the triangle.
+Click the **Run** button. You should see the triangle.
 
 <div class="c-project-callout c-project-callout--tip">
 
+<div class="c-project-output">
 ![A brown triangle on grass and against a sky.](images/target-stand.png){:width="400px"}
+</div>
+
+Confirm the observable result.
