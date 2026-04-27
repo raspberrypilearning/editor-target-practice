@@ -32,8 +32,6 @@ def setup():
 
 ## Now run your code
 
-Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
-
 <div class="c-project-output">
 ![image of a blue rectangle](images/sky.png)
 </div>
@@ -47,4 +45,4 @@ If you see an alert "Execution interrupted" when you click stop on your program,
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button again and check that you see a blue sky with no border around it.

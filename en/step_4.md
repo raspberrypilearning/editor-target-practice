@@ -28,10 +28,8 @@ line_highlights: 27-28
 
 ## Now run your code
 
-Click the **Run** button. You should see the target.
-
 <div class="c-project-output">
 ![a blue circle representing the target area](images/blue-circle.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that a blue target circle appears.

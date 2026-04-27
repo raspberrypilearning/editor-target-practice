@@ -26,10 +26,8 @@ def shoot_arrow():
 
 ## Now run your code
 
-Click the **Run** button. You should see the arrow jump around the target.
-
 <div class="c-project-output">
 ![brown circle moving randomly around the target](images/random_arrow.gif)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the arrow jumps around the target.

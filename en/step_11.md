@@ -31,8 +31,6 @@ def mouse_pressed():
 
 ## Now run your code
 
-Click the **Run** button.You should score points whenever you hit the target.
-
 <div class="c-project-output">
 ![points being scored on any area of target](images/points-scored.gif)
 </div>
@@ -48,4 +46,4 @@ Click the **Run** button.You should score points whenever you hit the target.
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button, wait for the arrow to land on the target, then click and check that you score points.

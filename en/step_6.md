@@ -45,10 +45,8 @@ line_highlights: 37
 
 ## Now run your code
 
-Click the **Run** button. You should see the arrow in the centre.
-
 <div class="c-project-output">
 ![a brown arrow circle in the centre of the target](images/arrow-centre.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the arrow appears in the centre of the target.

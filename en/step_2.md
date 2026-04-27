@@ -25,8 +25,6 @@ def draw():
 
 ## Now run your code
 
-Click the **Run** button. You should see the full background.
-
 <div class="c-project-output">
 ![a blue rectangle over a green rectangle representing sky and grass](images/sky-grass.png)
 </div>
@@ -38,4 +36,4 @@ Make sure your code matches exactly and you have indented the code inside the fu
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that you see blue sky above green grass.

@@ -39,8 +39,6 @@ def mouse_pressed():
 
 ## Now run your code
 
-Click the **Run** button. You should see the 🎯 character printed when you click the mouse.
-
 <div class="c-project-output">
 ![target emoji printed when mouse clicked](images/target_printed.gif)
 </div>
@@ -52,4 +50,4 @@ The `mouse_pressed()` function is automatically called by the `p5` library when 
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that `🎯` is printed when you click the mouse.

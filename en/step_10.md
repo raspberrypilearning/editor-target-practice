@@ -30,8 +30,6 @@ def mouse_pressed():
 
 ## Now run your code
 
-Click the **Run** button. Wait for the arrow to land on the blue circle, then click your left mouse button.
-
 <div class="c-project-output">
 ![points scored when blue circle clicked](images/blue_circle_points.gif)
 </div>
@@ -45,4 +43,4 @@ If you changed the colour of your outer circle, you will need to replace `'blue'
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button, wait for the arrow to land on the blue circle, then click and check that you score 50 points.

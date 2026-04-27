@@ -33,10 +33,8 @@ def mouse_pressed():
 
 ## Now run your code
 
-Click the **Run** button. Fire the arrow in the grass or sky to see the miss message.
-
 <div class="c-project-output">
 ![no points printed when outside target](images/missed_no_points.gif)
 </div>
 
-Confirm the observable result.
+Click the **Run** button, fire the arrow into the grass or sky, and check that the miss message appears.

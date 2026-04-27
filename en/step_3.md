@@ -24,12 +24,10 @@ line_highlights: 25-26
 
 ## Now run your code
 
-Click the **Run** button. You should see the triangle.
-
 <div class="c-project-callout c-project-callout--tip">
 
 <div class="c-project-output">
 ![A brown triangle on grass and against a sky.](images/target-stand.png){:width="400px"}
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that a brown triangle stand appears.

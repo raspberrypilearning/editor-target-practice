@@ -28,8 +28,6 @@ line_highlights: 29-32
 
 ## Now run your code
 
-Click the **Run** button. You should see the full target.
-
 <div class="c-project-output">
 ![three circles representing a target](images/three-circles.png)
 </div>
@@ -40,4 +38,4 @@ You can find a list of all of the available colour names on [W3Schools](https://
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the full target has blue, red, and yellow circles.

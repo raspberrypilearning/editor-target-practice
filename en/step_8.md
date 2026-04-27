@@ -29,7 +29,7 @@ def shoot_arrow():
 
 ## Now run your code
 
-Stop your code from running, then switch to Split View before running your code again. Click the **Run** button. You should see the colours being printed in the **Text output**.
+Stop your code from running, then switch to Split View before running your code again.
 
 <div class="c-project-output">
 ![Tabs showing visual output, text output and split view options.](images/split-view.png)
@@ -45,4 +45,4 @@ The codes you see printed are the hexidecimal representations of the colours.
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button in **Split view** and check that colour codes are printed in **Text output**.
