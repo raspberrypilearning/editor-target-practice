@@ -32,7 +32,7 @@ def mouse_pressed():
 ## Now run your code
 
 <div class="c-project-output">
-![points being scored on any area of target](images/points-scored.gif)
+![points being scored on the inner parts of the target](images/points-scored.png)
 </div>
 ### Debugging
 
