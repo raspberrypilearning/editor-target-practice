@@ -30,9 +30,9 @@ def mouse_pressed():
 </div>
 
 
-**Test:** Click the **Run** button.You should score points whenever you hit the target.
+**Test:** Click the **Run** button. You should score points whenever you hit the target.
 
-![points being scored on any area of target](images/points-scored.gif)
+![points being scored on any area of target](images/points-scored.png)
 
 <div class="c-project-callout c-project-callout--debug">
 
