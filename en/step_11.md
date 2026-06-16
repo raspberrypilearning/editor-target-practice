@@ -32,7 +32,7 @@ def mouse_pressed():
 
 **Test:** Click the **Run** button. You should score points whenever you hit the target.
 
-![points being scored on any area of target](images/points-scored.png)
+![points being scored on the inner parts of the target](images/points-scored.png)
 
 <div class="c-project-callout c-project-callout--debug">
 
