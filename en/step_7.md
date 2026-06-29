@@ -2,8 +2,6 @@
 
 ➡️ Make the arrow appear at random positions on the screen.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Change the `arrow_x` and `arrow_y` variables so that each position is chosen by random numbers.
 
 <div class="c-project-code">
