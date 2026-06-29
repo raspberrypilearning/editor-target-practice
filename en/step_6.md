@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add an arrow</h2>
 
---- task ---
+➡️ Create a function that draws a small circle to represent an arrow.
 
-➡️ Create a function that draws a small circle to represent an arrow. 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The arrow will be drawn using a function.
 
@@ -44,7 +43,10 @@ line_highlights: 37
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. You should see the arrow in the centre.
-
+<div class="c-project-output">
 ![a brown arrow circle in the centre of the target](images/arrow-centre.png)
+</div>
+
+Click the **Run** button and check that the arrow appears in the centre of the target.

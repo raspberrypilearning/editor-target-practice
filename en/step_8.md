@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Get the colour</h2>
 
---- task ---
-➡️ Find out which colour the arrow is touching. 
---- /task ---
+➡️ Find out which colour the arrow is touching.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add code to find the colour at the arrow's x, y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
@@ -27,19 +27,22 @@ def shoot_arrow():
 --- /code ---
 </div>
 
-**Test:** Stop your code from running, then switch to Split View before running your code again. Click the **Run** button. You should see the colours being printed in the **Text output**.
+## Now run your code
 
+Stop your code from running, then switch to Split View before running your code again.
+
+<div class="c-project-output">
 ![Tabs showing visual output, text output and split view options.](images/split-view.png)
 
 ![Split view showing hex colours printed in the text output](images/hex_colours_printed.gif)
-
+</div>
+### Tip
 <div class="c-project-callout c-project-callout--tip">
 
-### Tip
 Make sure you are in **Split view** so that you can see the **Text output** and the **Visual output**.
 
 The codes you see printed are the hexidecimal representations of the colours.
 
 </div>
 
-
+Click the **Run** button in **Split view** and check that colour codes are printed in **Text output**.

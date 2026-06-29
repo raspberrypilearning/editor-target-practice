@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Draw the grass</h2>
 
---- task ---
 ➡️ Draw a green rectangle to represent the grass.
 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add a second light green rectangle (`rect`) at the bottom of the background.
 
@@ -24,15 +23,17 @@ def draw():
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. You should see the full background.
+## Now run your code
 
+<div class="c-project-output">
 ![a blue rectangle over a green rectangle representing sky and grass](images/sky-grass.png)
+</div>
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
-
-### Debugging
 
 Make sure your code matches exactly and you have indented the code inside the function correctly. 
 
 </div>
 
+Click the **Run** button and check that you see blue sky above green grass.

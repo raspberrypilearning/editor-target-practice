@@ -6,24 +6,24 @@ meta_description: Learn Python with the Raspberry Pi Foundation's coding project
 version: 4
 listed: true
 copyedit: false
-landing: true
 last_tested: "2022-05-19"
+landing: true
 steps:
-  - title: Step 1
-  - title: Step 2
+  - title: Create a background
+  - title: Draw the grass
     completion:
       - engaged
-  - title: Step 3
-  - title: Step 4
-  - title: Step 5
-  - title: Step 6
-  - title: Step 7
-  - title: Step 8
-  - title: Step 9
-  - title: Step 10
-  - title: Step 11
-  - title: Step 12
+  - title: Draw a stand
+  - title: Add a target circle
+  - title: Finish the target
+  - title: Add an arrow
+  - title: Make the arrow move
+  - title: Get the colour
+  - title: Detect mouse clicks
+  - title: Scoring points
+  - title: More points
     completion:
       - internal
+  - title: Missing the target
+    completion:
       - external
-

@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Scoring points</h2>
 
---- task ---
-➡️ If the arrow hit blue, print a message. 
+➡️ If the arrow hit blue, print a message.
 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Comment out the line to print the 🎯 character.
 
@@ -29,16 +28,19 @@ def mouse_pressed():
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. Wait for the arrow to land on the blue circle, then click your left mouse button.
+## Now run your code
 
+<div class="c-project-output">
 ![points scored when blue circle clicked](images/blue_circle_points.gif)
+</div>
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
-
-### Debugging
 
 Make sure your code matches exactly and you have indented the code inside your `if` statement. 
 
 If you changed the colour of your outer circle, you will need to replace `'blue'` with the name of the colour you have chosen.
 
 </div>
+
+Click the **Run** button, wait for the arrow to land on the blue circle, then click and check that you score 50 points.

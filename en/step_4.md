@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Add a target circle</h2>
 
---- task ---
-
 ➡️ Draw a circle to represent a target.
 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The archery target needs some circles attached to the stand.
 
@@ -28,8 +26,10 @@ line_highlights: 27-28
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. You should see the target.
-
+<div class="c-project-output">
 ![a blue circle representing the target area](images/blue-circle.png)
+</div>
 
+Click the **Run** button and check that a blue target circle appears.

@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Create a background</h2>
 
---- task ---
-
 This project contains code to draw the sky as a blue rectangle.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Remove the black border from the background.
 
---- /task ---
 
 The border of a shape is called the **stroke**.
 
@@ -31,13 +30,14 @@ def setup():
 
 </div>
 
-**Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
+## Now run your code
 
+<div class="c-project-output">
 ![image of a blue rectangle](images/sky.png)
+</div>
+### Tip
 
 <div class="c-project-callout c-project-callout--tip">
-
-### Tip
 
 Coordinates start from (x=0, y=0) in the top left-hand corner. This might be different to other coordinate systems you have used.
 
@@ -45,3 +45,4 @@ If you see an alert "Execution interrupted" when you click stop on your program,
 
 </div>
 
+Click the **Run** button again and check that you see a blue sky with no border around it.
