@@ -2,8 +2,6 @@
 
 ➡️ Find out which colour the arrow is touching.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add code to find the colour at the arrow's x, y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
 <div class="c-project-code">
