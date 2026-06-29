@@ -2,10 +2,7 @@
 
 This project contains code to draw the sky as a blue rectangle.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Remove the black border from the background.
-
 
 The border of a shape is called the **stroke**.
 

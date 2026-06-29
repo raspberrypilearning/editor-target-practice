@@ -2,8 +2,6 @@
 
 ➡️ If the arrow did not land anywhere on the target, display a message.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 There is one more decision you need to make: what happens if the arrow does not land on any of the target circles?
 
 To do this last check, you use `else`.

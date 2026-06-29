@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Add an arrow</h2>
 
-➡️ Create a function that draws a small circle to represent an arrow.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 The arrow will be drawn using a function.
 
 Add a function to draw a sienna coloured circle at coordinates `200`, `200`.

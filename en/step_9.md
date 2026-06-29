@@ -2,8 +2,6 @@
 
 ➡️ Print a target emoji 🎯 when the mouse button is pressed.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Comment out the line that prints the colour.
 
 <div class="c-project-code">
@@ -19,7 +17,6 @@ line_highlights: 15
     circle(arrow_x, arrow_y, 15)
 --- /code ---
 </div>
-
 
 Add code to print the target emoji 🎯 when the mouse is clicked.
 

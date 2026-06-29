@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Add a target circle</h2>
 
-➡️ Draw a circle to represent a target.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 The archery target needs some circles attached to the stand.
 
 The largest part of the target is a blue **circle**.

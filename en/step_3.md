@@ -2,8 +2,6 @@
 
 Your game needs a target to shoot arrows at.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Draw a brown triangle to represent the target stand.
 
 

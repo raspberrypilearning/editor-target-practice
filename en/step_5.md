@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Finish the target</h2>
 
-➡️ Draw two more circles to complete the target.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 The archery target needs some more circles.
 
 Add a smaller red and even smaller yellow circle.
