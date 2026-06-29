@@ -2,8 +2,6 @@
 
 ➡️ Draw a green rectangle to represent the grass.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add a second light green rectangle (`rect`) at the bottom of the background.
 
 <div class="c-project-code">
