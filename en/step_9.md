@@ -4,19 +4,11 @@
 
 Comment out the line that prints the colour.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 14
-line_highlights: 15
----
+```python filename="button_press.py" line_numbers="true" line_number_start="14" line_highlights="15"
     hit_colour = get(arrow_x, arrow_y).hex
     # print(hit_colour)
     circle(arrow_x, arrow_y, 15)
---- /code ---
-</div>
+```
 
 Add code to print the target emoji 🎯 when the mouse is clicked.
 
