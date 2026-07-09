@@ -39,12 +39,11 @@ def mouse_pressed():
 <div class="c-project-output">
 ![target emoji printed when mouse clicked](images/target_printed.gif)
 </div>
-### Tip
+
 
 <div class="c-project-callout c-project-callout--tip">
+### Tip
 
 The `mouse_pressed()` function is automatically called by the `p5` library when the left mouse button is pressed.
 
 </div>
-
-Click the **Run** button and check that `🎯` is printed when you click the mouse.
