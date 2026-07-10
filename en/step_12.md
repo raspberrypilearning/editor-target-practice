@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Missing the target</h2>
+## Missing the target
 
 ➡️ If the arrow did not land anywhere on the target, display a message.
 
@@ -6,14 +6,7 @@ There is one more decision you need to make: what happens if the arrow does not 
 
 To do this last check, you use `else`.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 5
-line_highlights: 14-15
----
+```python line_numbers="true" line_number_start="5" line_highlights="14-15"
 
 # The mouse_pressed function goes here
 def mouse_pressed():    
@@ -26,13 +19,10 @@ def mouse_pressed():
         print('You hit the middle, 500 points!')
     else:   
         print('You missed! No points!')
---- /code ---
-</div>
+```
 
 ## Now run your code
 
-<div class="c-project-output">
 ![no points printed when outside target](images/missed_no_points.gif)
-</div>
 
 Click the **Run** button, fire the arrow into the grass or sky, and check that the miss message appears.

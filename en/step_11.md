@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">More points</h2>
+## More points
 
 ➡️ If the arrow hits red or yellow, print out a message.
 
@@ -6,14 +6,7 @@
 
 Display a different message if the arrow lands on the **inner** or **middle** circle.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 5
-line_highlights: 10-13
----
+```python line_numbers="true" line_number_start="5" line_highlights="10-13"
 
 # The mouse_pressed function goes here
 def mouse_pressed():
@@ -24,24 +17,17 @@ def mouse_pressed():
         print('You hit the inner circle, 200 points!')
     elif hit_colour == Color('yellow').hex:
         print('You hit the middle, 500 points!')
---- /code ---
-</div>
+```
 
 ## Now run your code
 
-<div class="c-project-output">
 ![points being scored on the inner parts of the target](images/points-scored.png)
-</div>
-### Debugging
 
-<div class="c-project-callout c-project-callout--debug">
-
-+ Check that your indentation matches the example.
-
-+ Make sure you have entered the correct colour names for your circles. 
-
-+ Make sure you have used the `.hex` string for your circle colours.
-
-</div>
+> [!DEBUG]
+> + Check that your indentation matches the example.
+>
+> + Make sure you have entered the correct colour names for your circles.
+>
+> + Make sure you have used the `.hex` string for your circle colours.
 
 Click the **Run** button, wait for the arrow to land on the target, then click and check that you score points.
