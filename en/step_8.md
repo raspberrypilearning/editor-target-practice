@@ -1,17 +1,10 @@
-<h2 class="c-project-heading--task">Get the colour</h2>
+## Get the colour
 
 ➡️ Find out which colour the arrow is touching.
 
 Add code to find the colour at the arrow's x, y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 9
-line_highlights: 11, 14, 15
----
+```python line_numbers="true" line_number_start="9" line_highlights="11,14,15"
 # The shoot_arrow function goes here     
 def shoot_arrow():
     global hit_colour  # Can be used in other functions  
@@ -22,25 +15,19 @@ def shoot_arrow():
     fill('sienna')
     circle(arrow_x, arrow_y, 15)
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 Stop your code from running, then switch to Split View before running your code again.
 
-<div class="c-project-output">
 ![Tabs showing visual output, text output and split view options.](images/split-view.png)
 
 ![Split view showing hex colours printed in the text output](images/hex_colours_printed.gif)
-</div>
-### Tip
-<div class="c-project-callout c-project-callout--tip">
 
-Make sure you are in **Split view** so that you can see the **Text output** and the **Visual output**.
-
-The codes you see printed are the hexidecimal representations of the colours.
-
-</div>
+> [!TIP]
+> Make sure you are in **Split view** so that you can see the **Text output** and the **Visual output**.
+>
+> The codes you see printed are the hexadecimal representations of the colours.
 
 Click the **Run** button in **Split view** and check that colour codes are printed in **Text output**.
