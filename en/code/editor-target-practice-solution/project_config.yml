@@ -1,0 +1,4 @@
+name: "Target Practice Example"
+identifier: "target-practice-solution"
+type: 'python'
+build: true
