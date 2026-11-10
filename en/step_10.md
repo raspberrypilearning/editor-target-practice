@@ -25,6 +25,8 @@ def mouse_pressed():
 > [!DEBUG]
 > Make sure your code matches exactly and you have indented the code inside your `if` statement.
 >
+> If you see `NameError: name 'hit_colour' is not defined`, check that you have added `global hit_colour` inside `shoot_arrow()`, before the line that stores the colour.
+>
 > If you changed the colour of your outer circle, you will need to replace `'blue'` with the name of the colour you have chosen.
 
 Click the **Run** button, wait for the arrow to land on the blue circle, then click and check that you score 50 points.

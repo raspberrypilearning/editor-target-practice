@@ -4,9 +4,10 @@
 
 Change the `arrow_x` and `arrow_y` variables so that each position is chosen by random numbers.
 
-```python line_numbers="true" line_number_start="9" line_highlights="11-12"
+```python line_numbers="true" line_number_start="9" line_highlights="12-13"
 # The shoot_arrow function goes here
 def shoot_arrow():
+    global hit_colour  # Can be used in other functions
     arrow_x = randint(100, 300)
     arrow_y = randint(100, 300)
     fill('sienna')
