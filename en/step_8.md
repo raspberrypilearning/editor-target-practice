@@ -4,7 +4,9 @@
 
 Add code to find the colour at the arrow's x, y coordinate, and store it in a variable called `hit_colour`. Print out the colour value.
 
-```python line_numbers="true" line_number_start="9" line_highlights="11,14,15"
+The `global hit_colour` line you added earlier lets the `mouse_pressed()` function use this colour when you add scoring later.
+
+```python line_numbers="true" line_number_start="9" line_highlights="14-15"
 # The shoot_arrow function goes here     
 def shoot_arrow():
     global hit_colour  # Can be used in other functions  
